@@ -1,2 +1,3 @@
 streamlit
 pytz 
+botbuilder-integration-aiohttp>=4.15.0 
