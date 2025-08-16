@@ -1,0 +1,512 @@
+# Complete US National Parks Information
+
+## Overview
+The United States has 63 official National Parks, protecting over 130,000 square miles of diverse landscapes from mountains to deserts. The National Park Service manages 423 total sites, but only 63 have earned the prestigious "National Park" designation.
+
+## All US National Parks (Complete List)
+
+Acadia National Park (Maine, 1919) - 4.1M annual visitors
+Description: Located on Mount Desert Island, featuring rugged coastlines, pristine lakes, and granite peaks. Popular for hiking, tide pooling, and scenic drives along Park Loop Road.
+Activities: Hiking, tide pooling, scenic drives, lighthouse visits, cycling
+Features: Rocky coastlines, pristine lakes, granite peaks, Cadillac Mountain, Thunder Hole, Bar Harbor
+Best for: Coastal lovers, hikers, photographers, sunrise watchers
+
+American Samoa National Park (American Samoa, 1988) - 8,500 annual visitors
+Description: The only National Park south of the equator, protecting tropical rainforests, coral reefs, and Samoan cultural sites across three islands.
+Activities: Snorkeling, hiking, cultural experiences, beach exploration
+Features: Tropical rainforests, coral reefs, pristine beaches, Samoan culture, three islands (Tutuila, Ta'u, Ofu)
+Best for: Cultural enthusiasts, snorkelers, tropical adventure seekers
+
+Arches National Park (Utah, 1971) - 1.8M annual visitors
+Description: Home to over 2,000 natural stone arches, including the iconic Delicate Arch. The park showcases red rock formations and unique desert landscapes.
+Activities: Hiking, photography, stargazing, arch viewing
+Features: Over 2,000 natural stone arches, red rock formations, desert landscape, Delicate Arch, Landscape Arch, Windows Section
+Best for: Photographers, hikers, geology enthusiasts
+
+Badlands National Park (South Dakota, 1978) - 1.2M annual visitors
+Description: Features layered rock formations, fossil beds, and mixed-grass prairie. Known for dramatic landscapes and paleontological discoveries.
+Activities: Fossil hunting, hiking, wildlife viewing, stargazing, scenic drives
+Features: Layered rock formations, fossil beds, mixed-grass prairie, wildlife, dramatic buttes
+Best for: Fossil enthusiasts, wildlife watchers, photographers
+
+Big Bend National Park (Texas, 1944) - 580K annual visitors
+Description: Located along the Rio Grande, offering desert, river, and mountain ecosystems. Popular for hiking, river trips, and stargazing.
+Activities: River rafting, hiking, stargazing, birding, hot springs soaking
+Features: Rio Grande, Chihuahuan Desert, Santa Elena Canyon, hot springs, desert-river-mountain ecosystems
+Best for: Adventure seekers, birders, stargazers
+
+Biscayne National Park (Florida, 1980) - 700K annual visitors
+Description: Protects coral reefs, clear waters, and islands. Accessible mainly by boat, offering excellent snorkeling and diving.
+Activities: Snorkeling, diving, boating, fishing, island camping
+Features: Coral reefs, clear waters, islands, marine sanctuary, underwater trails
+Best for: Divers, snorkelers, boaters, marine life enthusiasts
+
+Black Canyon of the Gunnison National Park (Colorado, 1999) - 310K annual visitors
+Description: Features dramatic dark canyon walls and the Gunnison River. Known for steep cliffs and challenging hiking.
+Activities: Hiking, rock climbing, fishing, scenic drives, stargazing
+Features: Dramatic dark canyon walls, Gunnison River, steep cliffs, narrow gorge
+Best for: Rock climbers, photographers, geology enthusiasts
+
+Bryce Canyon National Park (Utah, 1928) - 2.1M annual visitors
+Description: Famous for colorful rock spires called "hoodoos" and amphitheater-like formations. Offers excellent hiking and photography opportunities.
+Activities: Hiking, photography, stargazing, scenic drives, winter sports
+Features: Colorful rock spires (hoodoos), amphitheater formations, high elevation, diverse ecosystems
+Best for: Photographers, hikers, geology enthusiasts
+
+Canyonlands National Park (Utah, 1964) - 910K annual visitors
+Description: Divided into four districts featuring canyons, mesas, and buttes carved by the Colorado and Green Rivers.
+Activities: Hiking, four-wheel driving, river rafting, rock climbing, backpacking
+Features: Canyons, mesas, buttes, Colorado and Green Rivers, four distinct districts
+Best for: Backpackers, river runners, off-road enthusiasts
+
+Capitol Reef National Park (Utah, 1971) - 1.4M annual visitors
+Description: Showcases the Waterpocket Fold and historic Fruita area. Known for red rock formations and pioneer history.
+Activities: Hiking, scenic drives, fruit picking, petroglyphs viewing, historic exploration
+Features: Waterpocket Fold, red rock formations, historic Fruita area, petroglyphs, orchards
+Best for: History buffs, hikers, families
+
+Carlsbad Caverns National Park (New Mexico, 1930) - 350K annual visitors
+Description: Contains over 119 caves, including the famous Big Room. Home to massive bat colonies and underground formations.
+Activities: Cave tours, bat watching, hiking, photography, ranger programs
+Features: Over 119 caves, Big Room, massive bat colonies, underground formations, limestone caverns
+Best for: Cave enthusiasts, bat watchers, families
+
+Channel Islands National Park (California, 1980) - 320K annual visitors
+Description: Called "America's Galapagos," these islands offer unique wildlife, clear waters, and pristine ecosystems.
+Activities: Snorkeling, diving, hiking, wildlife viewing, kayaking, boat tours
+Features: Five islands, marine sanctuary, unique wildlife, pristine waters, sea caves, endemic species
+Best for: Marine life enthusiasts, snorkelers, wildlife photographers
+
+Congaree National Park (South Carolina, 2003) - 215K annual visitors
+Description: Protects the largest old-growth bottomland hardwood forest in the US. Popular for hiking and firefly displays.
+Activities: Hiking, canoeing, firefly viewing, bird watching, ranger programs
+Features: Old-growth bottomland hardwood forest, diverse wildlife, firefly displays, boardwalk trails
+Best for: Nature lovers, firefly enthusiasts, families
+
+Crater Lake National Park (Oregon, 1902) - 650K annual visitors
+Description: Features the deep blue lake formed in a volcanic caldera. Known for its pristine waters and winter snow.
+Activities: Scenic drives, hiking, boat tours, cross-country skiing, photography
+Features: Deep blue lake, volcanic caldera, pristine waters, Wizard Island, snow-covered landscape
+Best for: Photographers, hikers, winter sports enthusiasts
+
+Cuyahoga Valley National Park (Ohio, 2000) - 2.6M annual visitors
+Description: Preserves rural landscapes between Cleveland and Akron, including waterfalls, trails, and historic sites.
+Activities: Hiking, biking, scenic train rides, historic site visits, waterfall viewing
+Features: Rural landscapes, waterfalls, trails, historic sites, Ohio & Erie Canal, Brandywine Falls
+Best for: Families, hikers, history enthusiasts
+
+Death Valley National Park (California/Nevada, 1994) - 1.1M annual visitors
+Description: The hottest, driest, and lowest place in North America. Features salt flats, sand dunes, and colorful badlands.
+Activities: Hiking, photography, stargazing, scenic drives, exploring ghost towns
+Features: Lowest point in North America (-282 ft), extreme temperatures, salt flats, sand dunes, colorful badlands
+Best for: Adventure seekers, photographers, geology enthusiasts
+
+Denali National Park (Alaska, 1917) - 230K annual visitors
+Description: Home to North America's highest peak and diverse wildlife including grizzly bears, wolves, and caribou.
+Activities: Wildlife viewing, mountaineering, bus tours, hiking, backpacking
+Features: Mount Denali (highest peak in North America), diverse wildlife, tundra, glaciers
+Best for: Wildlife enthusiasts, mountaineers, adventure seekers
+
+Dry Tortugas National Park (Florida, 1992) - 80K annual visitors
+Description: A remote island paradise featuring historic Fort Jefferson and pristine coral reefs accessible only by boat or seaplane.
+Activities: Snorkeling, diving, bird watching, fort exploration, camping
+Features: Historic Fort Jefferson, coral reefs, pristine waters, remote islands, sea turtle nesting
+Best for: History buffs, divers, bird watchers
+
+Everglades National Park (Florida, 1947) - 1.1M annual visitors
+Description: The largest subtropical wilderness in the US, home to alligators, manatees, and diverse bird species.
+Activities: Wildlife viewing, canoeing, hiking, bird watching, ranger programs
+Features: Subtropical wilderness, alligators, manatees, diverse bird species, mangrove forests
+Best for: Wildlife enthusiasts, bird watchers, nature photographers
+
+Gates of the Arctic National Park (Alaska, 1980) - 7,400 annual visitors
+Description: America's northernmost national park, featuring pristine wilderness without roads or trails.
+Activities: Backpacking, mountaineering, wildlife viewing, river floating
+Features: Pristine wilderness, no roads or trails, Arctic landscape, Brooks Range mountains
+Best for: Experienced wilderness adventurers, mountaineers
+
+Glacier National Park (Montana, 1910) - 3.1M annual visitors
+Description: Features over 700 miles of trails, pristine lakes, and glacially-carved peaks. Famous for the Going-to-the-Sun Road.
+Activities: Hiking, scenic drives, wildlife viewing, photography, boat tours
+Features: Glacially-carved peaks, pristine lakes, Going-to-the-Sun Road, diverse wildlife, alpine scenery
+Best for: Hikers, photographers, wildlife enthusiasts
+
+Glacier Bay National Park (Alaska, 1980) - 89K annual visitors
+Description: A marine wilderness featuring tidewater glaciers, whales, and dynamic glacial landscapes.
+Activities: Glacier viewing, whale watching, kayaking, boat tours, wildlife photography
+Features: Tidewater glaciers, whales, dynamic glacial landscapes, marine wilderness
+Best for: Whale watchers, glacier enthusiasts, marine wildlife photographers
+
+Grand Canyon National Park (Arizona, 1919) - 5.9M annual visitors
+Description: One of the world's most famous natural wonders, showcasing geological history through layered rock formations.
+Activities: Hiking, scenic viewpoints, river rafting, mule rides, helicopter tours
+Features: Massive canyon, layered rock formations, Colorado River, diverse ecosystems, iconic viewpoints
+Best for: Photographers, hikers, geology enthusiasts, families
+
+Grand Teton National Park (Wyoming, 1929) - 3.3M annual visitors
+Description: Features dramatic mountain peaks rising abruptly from the valley floor and pristine alpine lakes.
+Activities: Hiking, mountaineering, wildlife viewing, scenic drives, lake activities
+Features: Dramatic mountain peaks, alpine lakes, Jackson Hole valley, diverse wildlife
+Best for: Mountaineers, photographers, wildlife enthusiasts
+
+Great Basin National Park (Nevada, 1986) - 120K annual visitors
+Description: Features ancient bristlecone pines, Lehman Caves, and excellent stargazing opportunities.
+Activities: Cave tours, hiking, stargazing, bristlecone pine viewing, scenic drives
+Features: Ancient bristlecone pines, Lehman Caves, dark skies, Wheeler Peak, diverse ecosystems
+Best for: Stargazers, cave enthusiasts, botanists
+
+Great Sand Dunes National Park (Colorado, 2004) - 520K annual visitors
+Description: Home to North America's tallest sand dunes against the backdrop of the Sangre de Cristo Mountains.
+Activities: Sand sledding, sandboarding, hiking, stargazing, wildlife viewing
+Features: Tallest sand dunes in North America, Sangre de Cristo Mountains, seasonal creek, diverse habitats
+Best for: Families, adventure seekers, photographers
+
+Great Smoky Mountains National Park (Tennessee/North Carolina, 1934) - 14.1M annual visitors
+Description: America's most visited national park, featuring biodiversity, historic cabins, and mountain views.
+Activities: Hiking, wildlife viewing, historic site visits, fall foliage viewing, waterfall viewing
+Features: Biodiversity hotspot, historic cabins, mountain views, wildflowers, diverse wildlife
+Best for: Families, hikers, wildlife viewers, history enthusiasts
+
+Guadalupe Mountains National Park (Texas, 1972) - 220K annual visitors
+Description: Contains the highest peaks in Texas and excellent examples of fossilized reef formations.
+Activities: Hiking, backpacking, wildlife viewing, geology exploration, scenic drives
+Features: Highest peaks in Texas, fossilized reef formations, diverse ecosystems, desert landscape
+Best for: Hikers, geology enthusiasts, backpackers
+
+Haleakala National Park (Hawaii, 1916) - 1.1M annual visitors
+Description: Features a massive volcanic crater and is famous for sunrise viewing and unique silversword plants.
+Activities: Sunrise viewing, hiking, stargazing, crater exploration, scenic drives
+Features: Massive volcanic crater, silversword plants, sunrise viewing, diverse climates, unique ecosystems
+Best for: Sunrise enthusiasts, botanists, stargazers
+
+Hawaii Volcanoes National Park (Hawaii, 1916) - 1.3M annual visitors
+Description: Home to active volcanoes Kilauea and Mauna Loa, showcasing dynamic volcanic processes.
+Activities: Volcano viewing, hiking, lava tube exploration, ranger programs, scenic drives
+Features: Active volcanoes (Kilauea and Mauna Loa), lava tubes, dynamic landscapes, thermal features
+Best for: Volcano enthusiasts, geology lovers, adventure seekers
+
+Hot Springs National Park (Arkansas, 1921) - 1.5M annual visitors
+Description: Features natural hot springs and historic bathhouses in an urban setting.
+Activities: Hot springs bathing, historic tours, hiking, spa treatments, downtown exploration
+Features: Natural hot springs, historic bathhouses, urban park setting, thermal waters
+Best for: Spa enthusiasts, history buffs, families
+
+Indiana Dunes National Park (Indiana, 2019) - 2.1M annual visitors
+Description: Features diverse ecosystems along Lake Michigan's southern shore, including dunes, wetlands, and prairies.
+Activities: Beach activities, hiking, bird watching, dune climbing, educational programs
+Features: Sand dunes, Lake Michigan shoreline, diverse ecosystems, wetlands, prairies
+Best for: Families, beach lovers, bird watchers
+
+Isle Royale National Park (Michigan, 1940) - 26K annual visitors
+Description: A remote island park in Lake Superior, known for wolf and moose research and wilderness backpacking.
+Activities: Backpacking, wildlife research observation, fishing, canoeing, lighthouse visits
+Features: Remote island wilderness, wolf and moose populations, Lake Superior setting, pristine lakes
+Best for: Wilderness backpackers, wildlife researchers, solitude seekers
+
+Joshua Tree National Park (California, 1994) - 2.9M annual visitors
+Description: Where the Mojave and Colorado Deserts meet, featuring unique Joshua trees and excellent rock climbing.
+Activities: Rock climbing, hiking, stargazing, photography, camping
+Features: Unique Joshua trees, rock formations, desert landscapes, clear night skies, two desert ecosystems
+Best for: Rock climbers, stargazers, desert lovers
+
+Katmai National Park (Alaska, 1980) - 38K annual visitors
+Description: Famous for brown bear viewing, especially at Brooks Falls during salmon runs.
+Activities: Bear viewing, fishing, wildlife photography, hiking, scenic flights
+Features: Brown bears, salmon runs, Brooks Falls, Valley of Ten Thousand Smokes, pristine wilderness
+Best for: Wildlife photographers, bear enthusiasts, anglers
+
+Kenai Fjords National Park (Alaska, 1980) - 350K annual visitors
+Description: Features glaciers, fjords, and marine wildlife along the Kenai Peninsula.
+Activities: Glacier viewing, whale watching, boat tours, kayaking, wildlife photography
+Features: Glaciers, fjords, marine wildlife, Harding Icefield, tidewater glaciers
+Best for: Marine wildlife enthusiasts, glacier lovers, photographers
+
+Kings Canyon National Park (California, 1940) - 630K annual visitors
+Description: Home to giant sequoias and the deepest canyon in the US, managed jointly with Sequoia National Park.
+Activities: Hiking, backpacking, tree viewing, scenic drives, camping
+Features: Giant sequoias, deep canyon, granite cliffs, alpine wilderness, Cedar Grove
+Best for: Backpackers, tree lovers, wilderness enthusiasts
+
+Kobuk Valley National Park (Alaska, 1980) - 16K annual visitors
+Description: Features sand dunes and caribou migration routes in Alaska's remote interior.
+Activities: Caribou viewing, sand dune exploration, river floating, subsistence experiences
+Features: Sand dunes, caribou migration routes, remote wilderness, Kobuk River
+Best for: Wildlife enthusiasts, wilderness adventurers, cultural experience seekers
+
+Lake Clark National Park (Alaska, 1980) - 17K annual visitors
+Description: Features volcanoes, glacial lakes, and salmon streams in south-central Alaska.
+Activities: Bear viewing, fishing, hiking, scenic flights, lake activities
+Features: Volcanoes, glacial lakes, salmon streams, brown bears, pristine wilderness
+Best for: Anglers, bear watchers, wilderness enthusiasts
+
+Lassen Volcanic National Park (California, 1916) - 500K annual visitors
+Description: Showcases all four types of volcanoes and geothermal features like hot springs and mud pots.
+Activities: Hiking, hot springs viewing, photography, camping, scenic drives
+Features: All four types of volcanoes, geothermal features, Lassen Peak, hot springs, mud pots
+Best for: Geology enthusiasts, hikers, families
+
+Mammoth Cave National Park (Kentucky, 1941) - 552K annual visitors
+Description: Contains the world's longest known cave system with over 400 miles of surveyed passageways.
+Activities: Cave tours, hiking, canoeing, wildlife viewing, ranger programs
+Features: World's longest cave system, underground rivers, diverse cave formations, Green River
+Best for: Cave enthusiasts, families, geology lovers
+
+Mesa Verde National Park (Colorado, 1906) - 550K annual visitors
+Description: Preserves ancestral Puebloan cliff dwellings and archaeological sites dating back over 700 years.
+Activities: Cliff dwelling tours, archaeological site visits, hiking, ranger programs, museum visits
+Features: Ancestral Puebloan cliff dwellings, archaeological sites, mesa landscape, cultural history
+Best for: History enthusiasts, archaeology lovers, families
+
+Mount Rainier National Park (Washington, 1899) - 1.5M annual visitors
+Description: Features a glaciated stratovolcano surrounded by wildflower meadows and old-growth forests.
+Activities: Hiking, mountaineering, wildflower viewing, scenic drives, winter sports
+Features: Glaciated stratovolcano, wildflower meadows, old-growth forests, glaciers, alpine lakes
+Best for: Mountaineers, wildflower enthusiasts, hikers
+
+New River Gorge National Park (West Virginia, 2020) - 1.6M annual visitors
+Description: Features one of the oldest rivers in North America and excellent whitewater rafting opportunities.
+Activities: Whitewater rafting, rock climbing, hiking, scenic drives, bridge tours
+Features: Ancient New River, deep gorge, whitewater rapids, sandstone cliffs, historic sites
+Best for: Whitewater enthusiasts, rock climbers, adventure seekers
+
+North Cascades National Park (Washington, 1968) - 40K annual visitors
+Description: Known as the "American Alps" with rugged peaks, glaciers, and pristine wilderness.
+Activities: Backpacking, mountaineering, hiking, wildlife viewing, photography
+Features: Rugged peaks, glaciers, pristine wilderness, alpine lakes, old-growth forests
+Best for: Experienced hikers, mountaineers, wilderness enthusiasts
+
+Olympic National Park (Washington, 1938) - 3.2M annual visitors
+Description: Features diverse ecosystems including temperate rainforests, rugged coastlines, and mountain peaks.
+Activities: Hiking, beach exploration, hot springs soaking, wildlife viewing, scenic drives
+Features: Temperate rainforests, rugged Pacific coastline, mountain peaks, hot springs, diverse ecosystems
+Best for: Diverse experience seekers, hikers, beach lovers
+
+Petrified Forest National Park (Arizona, 1962) - 650K annual visitors
+Description: Contains one of the world's largest concentrations of petrified wood and Triassic fossils.
+Activities: Petrified wood viewing, hiking, photography, paleontology programs, scenic drives
+Features: Petrified wood, Triassic fossils, Painted Desert, petroglyphs, badlands
+Best for: Geology enthusiasts, paleontology lovers, photographers
+
+Pinnacles National Park (California, 2013) - 177K annual visitors
+Description: Features rock formations created by ancient volcanic activity and serves as a condor sanctuary.
+Activities: Hiking, rock climbing, condor viewing, cave exploration, photography
+Features: Rock formations, condor sanctuary, talus caves, wildflowers, volcanic spires
+Best for: Bird watchers, hikers, rock climbers
+
+Redwood National and State Parks (California, 1968) - 436K annual visitors
+Description: Home to the world's tallest trees and pristine old-growth coastal redwood forests.
+Activities: Hiking, tree viewing, scenic drives, beach exploration, photography
+Features: World's tallest trees, old-growth coastal redwood forests, Pacific coastline, diverse wildlife
+Best for: Tree enthusiasts, nature photographers, families
+
+Rocky Mountain National Park (Colorado, 1915) - 4.6M annual visitors
+Description: Features high alpine landscapes, Trail Ridge Road, and diverse mountain wildlife.
+Activities: Hiking, scenic drives, wildlife viewing, mountaineering, photography
+Features: High alpine landscapes, Trail Ridge Road, mountain peaks, alpine lakes, diverse wildlife
+Best for: Hikers, wildlife viewers, scenic drive enthusiasts
+
+Saguenay Fjord National Park (Quebec, Canada) - Note: This is actually a Canadian park, not US
+Saguaro National Park (Arizona, 1994) - 1.1M annual visitors
+Description: Protects the iconic saguaro cactus and Sonoran Desert ecosystem near Tucson.
+Activities: Hiking, cactus viewing, wildlife watching, scenic drives, photography
+Features: Iconic saguaro cacti, Sonoran Desert ecosystem, diverse desert wildlife, mountain views
+Best for: Desert enthusiasts, cactus lovers, wildlife watchers
+
+Sequoia National Park (California, 1890) - 1.2M annual visitors
+Description: Home to giant sequoia trees, including General Sherman, the world's largest tree by volume.
+Activities: Hiking, tree viewing, scenic drives, camping, photography
+Features: Giant sequoia trees, General Sherman tree, granite domes, mountain wilderness
+Best for: Tree enthusiasts, hikers, families
+
+Shenandoah National Park (Virginia, 1935) - 1.7M annual visitors
+Description: Features scenic Skyline Drive, waterfalls, and excellent fall foliage viewing.
+Activities: Scenic drives, hiking, waterfall viewing, fall foliage tours, wildlife watching
+Features: Skyline Drive, waterfalls, Blue Ridge Mountains, fall foliage, diverse ecosystems
+Best for: Scenic drive enthusiasts, hikers, fall foliage viewers
+
+Theodore Roosevelt National Park (North Dakota, 1978) - 750K annual visitors
+Description: Preserves badlands landscape and wildlife that inspired President Theodore Roosevelt.
+Activities: Wildlife viewing, hiking, scenic drives, horseback riding, ranger programs
+Features: Badlands landscape, bison herds, wild horses, prairie dogs, historical significance
+Best for: Wildlife enthusiasts, history buffs, families
+
+Virgin Islands National Park (US Virgin Islands, 1956) - 160K annual visitors
+Description: Protects tropical beaches, coral reefs, and historical ruins in the Caribbean.
+Activities: Snorkeling, diving, beach activities, hiking, historical site visits
+Features: Tropical beaches, coral reefs, historical ruins, Caribbean setting, marine sanctuary
+Best for: Beach lovers, divers, tropical vacation seekers
+
+Voyageurs National Park (Minnesota, 1975) - 240K annual visitors
+Description: A water-based park featuring interconnected lakes, islands, and diverse aquatic ecosystems.
+Activities: Canoeing, kayaking, fishing, wildlife viewing, camping, houseboat rentals
+Features: Interconnected lakes, islands, aquatic ecosystems, northern lights viewing, diverse wildlife
+Best for: Water enthusiasts, canoeists, anglers
+
+White Sands National Park (New Mexico, 2019) - 650K annual visitors
+Description: Features the world's largest gypsum dune field with brilliant white sand dunes.
+Activities: Sand sledding, hiking, photography, stargazing, ranger programs
+Features: World's largest gypsum dune field, brilliant white sand dunes, unique ecosystem
+Best for: Photographers, families, unique experience seekers
+
+Wind Cave National Park (South Dakota, 1903) - 680K annual visitors
+Description: Features one of the world's longest and most complex cave systems and diverse prairie wildlife.
+Activities: Cave tours, wildlife viewing, hiking, prairie exploration, ranger programs
+Features: Complex cave system, prairie wildlife, bison herds, unique cave formations
+Best for: Cave enthusiasts, wildlife watchers, families
+
+Wrangell-St. Elias National Park (Alaska, 1980) - 80K annual visitors
+Description: America's largest national park, featuring massive glaciers, towering peaks, and vast wilderness.
+Activities: Mountaineering, glacier viewing, wildlife watching, scenic flights, backpacking
+Features: Massive glaciers, towering peaks, vast wilderness, largest national park, remote setting
+Best for: Serious adventurers, mountaineers, wilderness enthusiasts
+
+Yellowstone National Park (Wyoming/Montana/Idaho, 1872) - 4.1M annual visitors
+Description: The world's first national park, famous for geysers, hot springs, wildlife, and the Grand Prismatic Spring.
+Activities: Geyser watching, wildlife viewing, hot springs exploration, scenic drives, hiking
+Features: Geysers, hot springs, Grand Prismatic Spring, diverse wildlife, thermal features
+Best for: Wildlife enthusiasts, geology lovers, families
+
+Yosemite National Park (California, 1890) - 4M annual visitors
+Description: Known for granite cliffs, waterfalls, giant sequoias, and iconic landmarks like Half Dome and El Capitan.
+Activities: Rock climbing, photography, backpacking, hiking, scenic drives
+Features: Granite cliffs, waterfalls, giant sequoias, Half Dome, El Capitan, Yosemite Valley
+Best for: Rock climbing enthusiasts, photographers, nature lovers
+
+Zion National Park (Utah, 1919) - 4.5M annual visitors
+Description: Features towering sandstone cliffs, slot canyons, and the Virgin River.
+Activities: Hiking, canyoneering, rock climbing, river walks, photography
+Features: Towering sandstone cliffs, slot canyons, Virgin River, narrow gorges, desert landscape
+Best for: Hikers, canyoneers, photographers
+
+## Parks by Primary Features
+
+### Mountain and Alpine Parks
+- Denali (Alaska): Highest peak in North America (20,310 ft)
+- Grand Teton (Wyoming): Dramatic peaks rising from valley floors
+- Mount Rainier (Washington): Glaciated volcanic peak, wildflower meadows
+- North Cascades (Washington): "American Alps" with jagged peaks
+- Rocky Mountain (Colorado): High altitude hiking, scenic drives, mountain climbing
+
+### Desert Parks
+- Death Valley (California/Nevada): Hottest, driest, lowest point (-282 ft)
+- Joshua Tree (California): Unique Joshua trees, rock formations
+- Saguaro (Arizona): Giant saguaro cacti, Sonoran Desert
+- Big Bend (Texas): Rio Grande, Chihuahuan Desert, Santa Elena Canyon
+- White Sands (New Mexico): Largest gypsum dune field
+
+### Canyon Parks
+- Grand Canyon (Arizona): World's most famous canyon, Colorado River
+- Bryce Canyon (Utah): Colorful hoodoos, amphitheater formations
+- Zion (Utah): Sandstone cliffs, slot canyons, Virgin River
+- Canyonlands (Utah): Four districts, Colorado and Green Rivers
+- Black Canyon of the Gunnison (Colorado): Dark walls, narrow gorge
+
+### Coastal and Marine Parks
+- Acadia (Maine): Rocky coastline, tide pools, lighthouse views
+- Olympic (Washington): Temperate rainforest, rugged Pacific coast
+- Channel Islands (California): Marine sanctuary, island wildlife
+- Biscayne (Florida): Coral reefs, clear waters, boat access only
+- Virgin Islands: Tropical beaches, coral reefs, Caribbean setting
+
+### Volcanic Parks
+- Hawaii Volcanoes (Hawaii): Active volcanoes Kilauea and Mauna Loa
+- Haleakala (Hawaii): Massive volcanic crater, silversword plants
+- Lassen Volcanic (California): All four volcano types, geothermal features
+- Mount Rainier (Washington): Glaciated stratovolcano
+
+### Forest and Tree Parks
+- Redwood (California): World's tallest trees, old-growth forests
+- Sequoia (California): Giant sequoias, General Sherman tree
+- Great Smoky Mountains (Tennessee/North Carolina): Diverse forests, biodiversity
+- Congaree (South Carolina): Old-growth bottomland hardwood forest
+
+### Cave and Underground Parks
+- Mammoth Cave (Kentucky): World's longest cave system
+- Carlsbad Caverns (New Mexico): Big Room, bat colonies
+- Wind Cave (South Dakota): Complex cave system, prairie wildlife
+
+### Wildlife Watching Parks
+- Yellowstone (Wyoming/Montana/Idaho): Bison, wolves, bears, elk
+- Great Smoky Mountains (Tennessee/North Carolina): Black bears, salamanders
+- Everglades (Florida): Alligators, manatees, birds
+- Katmai (Alaska): Brown bears, salmon runs
+- Denali (Alaska): Grizzly bears, wolves, caribou
+
+### Cultural and Historical Parks
+- Mesa Verde (Colorado): Ancestral Puebloan cliff dwellings
+- Chaco Culture (New Mexico): Ancient ceremonial sites [Note: This is actually a National Historical Park]
+
+## Extreme Records
+- Most Visited: Great Smoky Mountains (14.1M visitors)
+- Least Visited: Gates of the Arctic (7,400 visitors)
+- Largest: Wrangell-St. Elias, Alaska (8.3M acres)
+- Smallest: Hot Springs, Arkansas (5,550 acres)
+- Newest: New River Gorge, West Virginia (2020)
+- Oldest: Yellowstone (1872)
+- Northernmost: Gates of the Arctic, Alaska
+- Southernmost: American Samoa (only park south of equator)
+- Highest Point: Denali, Alaska (20,310 ft)
+- Lowest Point: Death Valley, California (-282 ft below sea level)
+- Hottest: Death Valley (134°F record)
+- Wettest: Olympic (temperate rainforest receives 200+ inches annually)
+
+## Best Times to Visit
+
+### Spring (March-May)
+- Great for: Wildflowers in desert and mountain parks
+- Best parks: Death Valley, Joshua Tree, Great Smoky Mountains
+- Weather: Mild temperatures, waterfalls at peak flow
+
+### Summer (June-August)
+- Great for: Alaska parks, high-elevation parks
+- Best parks: Denali, Glacier, Rocky Mountain, Yellowstone
+- Weather: All facilities open, busiest season, hot in lower elevations
+
+### Fall (September-November)
+- Great for: Fall foliage, fewer crowds
+- Best parks: Great Smoky Mountains, Shenandoah, Rocky Mountain
+- Weather: Pleasant temperatures, beautiful colors
+
+### Winter (December-February)
+- Great for: Desert parks, unique winter experiences
+- Best parks: Death Valley, Big Bend, Everglades
+- Weather: Mild in southern parks, snow activities in northern parks
+
+## Planning Your Visit
+
+### For Families
+Best parks: Great Smoky Mountains, Yellowstone, Yosemite Valley, Sequoia, Redwood, Acadia
+Easy access, visitor centers, educational programs, shorter trails
+
+### For Adventure Seekers
+Best parks: Joshua Tree, Death Valley, Kings Canyon backcountry, Gates of the Arctic
+Rock climbing, extreme environments, wilderness backpacking
+
+### For Photography
+Best parks: Yosemite, Grand Canyon, Arches, Bryce Canyon, Death Valley
+Iconic landscapes, diverse subjects, excellent lighting conditions
+
+### For Wildlife Viewing
+Best parks: Yellowstone, Great Smoky Mountains, Denali, Katmai, Everglades
+Diverse wildlife populations, viewing opportunities, guided programs
+
+### For Unique Experiences
+- Channel Islands: Island camping and marine life
+- Dry Tortugas: Remote fort and pristine waters
+- American Samoa: Only park south of equator
+- Carlsbad Caverns: Massive bat flight programs
+- Hot Springs: Historic bathhouses and thermal waters
+
+## Access and Transportation
+
+### Fly-in Only Parks
+American Samoa, Dry Tortugas (boat or seaplane), Gates of the Arctic, Katmai, Lake Clark
+
+### Boat Access Required
+Channel Islands, Dry Tortugas, Virgin Islands (some areas), Biscayne (most areas)
+
+### Most Accessible
+Great Smoky Mountains (no entrance fee), Cuyahoga Valley (near major cities), Shenandoah (Skyline Drive)
+
+### Remote Wilderness
+Gates of the Arctic, Kobuk Valley, Lake Clark, Wrangell-St. Elias (minimal facilities)
