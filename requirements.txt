@@ -1,3 +1,6 @@
 streamlit
-pytz 
-botbuilder-integration-aiohttp>=4.15.0 
+sentence-transformers
+together
+pandas
+numpy
+python-dotenv

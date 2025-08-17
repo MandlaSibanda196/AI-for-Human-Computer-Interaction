@@ -1,3 +1,0 @@
-streamlit
-azure-ai-textanalytics
-python-dotenv
